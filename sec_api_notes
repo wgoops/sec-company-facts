@@ -1,0 +1,10 @@
+https://www.sec.gov/edgar/sec-api-documentation
+
+data.sec.gov/api/xbrl/companyconcepts/ 
+    https://data.sec.gov/api/xbrl/companyconcept/CIK0000320193/us-gaap/AccountsPayableCurrent.json
+
+data.sec.gov/api/xbrl/companyfacts/
+    https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json
+
+data.sec.gov/api/xbrl/frames/
+    https://data.sec.gov/api/xbrl/frames/us-gaap/AccountsPayableCurrent/USD/CY2021Q1I.json
